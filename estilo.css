@@ -1,0 +1,35 @@
+
+
+body {
+		background-image: url("fundoG.WEBP");
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+}
+
+b { 
+	font-size: 100px;
+	Color: B0E0E6;
+	font-family: " Bahnschrift ";
+	text-shadow: 2px 5px 5px black
+	
+}
+
+form{
+	
+	text-align: center;
+	margin-top: 8%;
+}
+
+.inputText {
+	width: 48%;
+	padding:10;
+	border-radius: 22px;
+    	
+}
+
+.inputSubmit {
+	width: 9%;
+	padding: 8px;
+	background-color: E0FFFF;
+	
+}
